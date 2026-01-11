@@ -1,5 +1,5 @@
 {
-  "name": "cse341-web-service-class",
+  "name": "cse341webservice",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,10 +9,5 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "description": "",
-  "dependencies": {
-    "dotenv": "^17.2.3",
-    "express": "^5.2.1",
-    "mongodb": "^7.0.0"
-  }
+  "description": ""
 }
